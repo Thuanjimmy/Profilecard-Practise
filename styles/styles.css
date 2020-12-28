@@ -1,0 +1,93 @@
+body{
+    background-color: hsl(185, 75%, 39%);
+    font-family: 'Kumbh Sans', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    text-align: center;
+    height: 900px;
+
+}
+
+
+p{
+    color: hsl(0, 0%, 59%);
+    font-weight: 400;
+    margin: 10px 41px;
+
+}
+h1{
+    font-weight: 700;
+    font-size: 24px;
+    
+}
+
+.age{
+    color: hsl(0, 0%, 59%);
+    font-weight: 400;
+}
+
+.attribution { 
+    font-size: 11px; text-align: center; 
+    color: hsl(228, 45%, 44%); 
+ 
+}
+
+.big-box{
+    background-color: white;
+    border-radius: 25px;
+    position: absolute;
+    height: 400px;
+    width: 400px;
+    top: 50%;
+    left: 50%;
+    margin: 0 auto;
+    margin-left:-250px;
+    margin-top:-250px;
+}
+
+.card{
+    width: 400px;
+    height: 150px;
+    border-radius: 25px 25px 0 0;
+}
+
+.outside{
+    background-color: hsl(185, 75%, 39%);
+}
+.outer1{
+    bottom: 400px;
+    right: 850px;
+    position: absolute;
+    
+    width: 50%;
+    
+}
+
+.outer2{
+    position: absolute;
+    left: 700px;
+    top: 400px;
+    width: 50%;
+    
+}
+
+.profilepic{
+    border-radius: 50%;
+    border: solid white;
+    position: relative;
+    bottom: 50px;
+}
+
+.square{
+    display: flex;
+    font-size: 14px;
+    line-height: 0.5;
+    margin-top: 20px;
+}
+
+.text{
+    position: relative;
+    bottom: 50px;
+}
+
+
